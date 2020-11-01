@@ -4,6 +4,11 @@
 Install dependencies
 
 ```
-git add
-git commit
+pip install pickle
+pip install mtcnn
+pip install opencv-python
+pip install numpy
+
 ```
+
+
