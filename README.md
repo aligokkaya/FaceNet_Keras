@@ -55,7 +55,15 @@ Pickle is used for serializing and de-serializing Python object structures, also
 pip install pickle
 
 ```
-see:[Pickle]https://www.geeksforgeeks.org/pickle-python-object-serialization/?ref=lbp).
+see:[Pickle](https://www.geeksforgeeks.org/pickle-python-object-serialization/?ref=lbp).
+
+# Run
+
+1-data-prepare.py
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 
 
