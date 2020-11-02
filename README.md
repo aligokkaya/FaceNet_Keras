@@ -4,10 +4,11 @@
 1-Install dependencies
 
 ```
-pip install pickle
+pip install scipy
 pip install mtcnn
 pip install opencv-python
-pip install numpy
+pip install sklearn
+pip install pickle
 pip install mnist
 
 ```
