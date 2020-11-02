@@ -37,7 +37,7 @@ people
           
 ```
 # Dowland
-## dDwland FaceNet-Keras Model 
+## Dowland FaceNet-Keras Model 
 This site was built using [GitHub Pages](https://github.com/D2KLab/Face-Celebrity-Recognition/tree/master/model).
 ```
 model
