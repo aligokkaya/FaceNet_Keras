@@ -77,7 +77,7 @@ Output:
 
 
 
-2-camera.py and image.py
+2-camera.py or image.py
 Output:
 ![ss3](https://user-images.githubusercontent.com/43973787/97849107-2226af00-1d03-11eb-8e0d-d8f7b439d2e8.png)
 
