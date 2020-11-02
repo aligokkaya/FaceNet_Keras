@@ -60,9 +60,15 @@ see:[Pickle](https://www.geeksforgeeks.org/pickle-python-object-serialization/?r
 # Run
 
 1-data-prepare.py
-
+Output:
 ![SS](https://user-images.githubusercontent.com/43973787/97847563-dd017d80-1d00-11eb-9b87-975f45ac930d.PNG)
 
+
+
+
+2-camera.py and image.py
+Output:
+![ss2](https://user-images.githubusercontent.com/43973787/97848022-8c3e5480-1d01-11eb-981b-9f7fa943fa0c.PNG)
 
 
 
