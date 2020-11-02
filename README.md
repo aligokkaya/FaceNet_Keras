@@ -61,9 +61,7 @@ see:[Pickle](https://www.geeksforgeeks.org/pickle-python-object-serialization/?r
 
 1-data-prepare.py
 
-1
-![alt text](http://Users/aligk/OneDrive/Masaüstü/SS.png)
-
+![SS](https://user-images.githubusercontent.com/43973787/97847563-dd017d80-1d00-11eb-9b87-975f45ac930d.PNG)
 
 
 
