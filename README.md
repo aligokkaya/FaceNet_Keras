@@ -61,8 +61,8 @@ see:[Pickle](https://www.geeksforgeeks.org/pickle-python-object-serialization/?r
 
 1-data-prepare.py
 
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+1
+![alt text](http://C:/Users/aligk/OneDrive/Masaüstü/SS.png)
 
 
 
