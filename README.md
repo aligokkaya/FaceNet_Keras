@@ -71,7 +71,12 @@ Output:
 ![ss3](https://user-images.githubusercontent.com/43973787/97849107-2226af00-1d03-11eb-8e0d-d8f7b439d2e8.png)
 
 
+# Appendix: Common Errors
 
+1-UserWarning: No training configuration found in save file: the model was *not* compiled. Compile it manually.
+  warnings.warn('No training configuration found in save file: '
+  
+  Answer= 1-data-prepare.py
 
 
 
