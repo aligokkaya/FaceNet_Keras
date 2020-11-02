@@ -68,8 +68,7 @@ Output:
 
 2-camera.py and image.py
 Output:
-![ss2](https://user-images.githubusercontent.com/43973787/97848022-8c3e5480-1d01-11eb-981b-9f7fa943fa0c.PNG)
-
+![ss3](https://user-images.githubusercontent.com/43973787/97849107-2226af00-1d03-11eb-8e0d-d8f7b439d2e8.png)
 
 
 
