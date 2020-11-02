@@ -56,7 +56,17 @@ Pickle is used for serializing and de-serializing Python object structures, also
 pip install pickle
 
 ```
+
 see:[Pickle](https://www.geeksforgeeks.org/pickle-python-object-serialization/?ref=lbp).
+
+
+Create New Folder Encodings
+
+```
+encodings
+    ├──encodings.pkl
+```
+
 
 # Run
 
