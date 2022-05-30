@@ -11,6 +11,7 @@ pip install sklearn
 pip install pickle
 pip install mnist
 pip install wrapt
+pip install h5py==2.10.0
 
 ```
 
