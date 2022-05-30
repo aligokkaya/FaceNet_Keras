@@ -10,6 +10,7 @@ pip install opencv-python
 pip install sklearn
 pip install pickle
 pip install mnist
+pip install wrapt
 
 ```
 
