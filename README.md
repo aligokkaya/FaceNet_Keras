@@ -4,6 +4,7 @@
 1-Install dependencies
 
 ```
+pip install tensorflow==1.15.0
 pip install scipy
 pip install mtcnn
 pip install opencv-python
@@ -12,6 +13,7 @@ pip install pickle
 pip install mnist
 pip install wrapt
 pip install h5py==2.10.0
+
 
 ```
 
